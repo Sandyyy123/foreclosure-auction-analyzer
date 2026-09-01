@@ -1,3 +1,7 @@
+> **⚠️ Proprietary — All Rights Reserved.** © 2026 Sandeep Grover. This repository is licensed to Sandeep Grover and may **not** be used, run, copied, modified, distributed, or used to train models without prior written permission. Public visibility does not grant a license. See [LICENSE](LICENSE).
+
+---
+
 # Foreclosure Auction Analyzer
 
 Automated pipeline for Oklahoma foreclosure auction analysis. Pulls OSCN court dockets, Zillow property metrics, applies lien/risk filters, and outputs a ranked Excel spreadsheet sorted by Price-to-Rent Ratio.
